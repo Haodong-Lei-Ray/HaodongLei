@@ -6,10 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
 <!-- 介绍我的当前学术状态 -->
-I am currently pursuing a Master of Engineering in Computer Science and Technology at the [PALM Laboratory](https://palm.seu.edu.cn/intro.html), [School of Software](https://cse.seu.edu.cn/), [Southeast University (SEU)](https://www.seu.edu.cn/), Nanjing, China. I enrolled in this program in 2024, driven by my passion for advancing my expertise in computer science and artificial intelligence.
+I am currently pursuing a Master of Engineering in Computer Science and Technology at the [PALM Laboratory](https://palm.seu.edu.cn/intro.html), [School of Software](https://cse.seu.edu.cn/), [Southeast University (SEU)](https://www.seu.edu.cn/), Nanjing, China. I enrolled in this program in 2024, driven by my passion for advancing my expertise in computer science and artificial intelligence. My tutor is [Hongsong Wang](https://cs.seu.edu.cn/hongsongwang/main.htm).
+
+[Email](l870572761@gmail.com): l870572761@gmail.com
+
+WeChat: lighting870
 
 <!-- 我的教育背景 -->
 ### Education
